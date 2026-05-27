@@ -1,0 +1,11 @@
+[user]
+	name = robot_bender
+	email = robot_bender@universe.earth
+[init]
+	defaultBranch = main
+[core]
+	editor = vi
+[alias]
+	st = status
+	lg = log --oneline --graph --all --decorate
+	last = log -1 HEAD --stat
