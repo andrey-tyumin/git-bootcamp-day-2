@@ -111,9 +111,9 @@
 <details>
 <summary>Пример сворачиваемого блока (можно убрать после проверки)</summary>
 
-free -h 
-swapoff -a
-swapon -a
+free -h  
+swapoff -a  
+swapon -a  
 
 </details>
 
